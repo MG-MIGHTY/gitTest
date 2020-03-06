@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitTest</string>
+    <string name="buttonText">Change activity</string>
 </resources>
